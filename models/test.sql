@@ -1,0 +1,1 @@
+select * from `paiidads.paid_ads.bing`
