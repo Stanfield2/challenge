@@ -1,0 +1,20 @@
+version: 2
+
+sources:
+  - name: ads
+    database: paiidads
+    schema: paid_ads  # This is the BigQuery dataset name
+    tables:
+      - name: bing
+        description: "bing data"
+
+      - name: facebook
+        description: "facebook data"
+
+      - name: tiktok
+        description: "tiktok data"
+
+      - name: twitter
+        description: "twitter data"
+
+     
