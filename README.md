@@ -1,4 +1,4 @@
-## link to the recreated dashboard: 
+## Link to the recreated dashboard: 
 [Looker](https://lookerstudio.google.com/s/khj4hGwaObQ)
 
 
